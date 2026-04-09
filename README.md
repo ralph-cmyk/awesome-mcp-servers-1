@@ -73,6 +73,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Apache Doris](https://github.com/apache/doris-mcp-server)** - MCP Server For [Apache Doris](https://doris.apache.org/), an MPP-based real-time data warehouse.
 - **[Apify](https://github.com/apify/actors-mcp-server)** - [Actors MCP Server](https://apify.com/apify/actors-mcp-server): Use 3,000+ pre-built cloud tools to extract data from websites, e-commerce, social media, search engines, maps, and more
 - **[APIMatic MCP](https://github.com/apimatic/apimatic-validator-mcp)** - APIMatic MCP Server is used to validate OpenAPI specifications using [APIMatic](https://www.apimatic.io/). The server processes OpenAPI files and returns validation summaries by leveraging APIMatic’s API.
+- **[AppHandoff MCP](https://github.com/TeamK2K/app-apphandoff)** - 40+ production MCP tools for AI agents: project scanning, API specs, DB schemas, cross-repo contracts, shared kanban, and realtime ticket streaming. Hosted Streamable HTTP — no Docker required.
 - **[Armor Crypto MCP](https://github.com/armorwallet/armor-crypto-mcp)** - MCP to interface with multiple blockchains, staking, DeFi, swap, bridging, wallet management, DCA, Limit Orders, Coin Lookup, Tracking and more.
 - **[Augments](https://augments.dev/)** - Comprehensive framework documentation and code examples for popular development tools and libraries.
 - **[Atla](https://github.com/atla-ai/atla-mcp-server)** - Enable AI agents to interact with the [Atla API](https://docs.atla-ai.com/) for state-of-the-art LLMJ evaluation.
